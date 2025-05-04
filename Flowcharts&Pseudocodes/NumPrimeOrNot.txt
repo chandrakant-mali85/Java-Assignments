@@ -1,0 +1,17 @@
+Q.Algorithm to Check Prime Number
+
+1.Start
+
+2.Input number N
+
+3.If N <= 1, then it's not prime, go to Step 7
+
+4.Set a flag = true
+
+5.For i = 2 to √N
+→ If N % i == 0, then
+→ Set flag = false, break
+
+6.If flag is true → Number is prime, else not prime
+
+7.End

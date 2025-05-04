@@ -1,0 +1,19 @@
+Q.Algorithm to Calculate Average of 25 Exam Scores
+
+1.Start
+
+2.Initialize a variable sum = 0
+
+3.For i = 1 to 25:
+
+Input the exam score
+
+Add the score to sum
+
+4.Calculate the average:
+	Average=sum/25
+ 
+5.Output the Average
+
+6.End
+

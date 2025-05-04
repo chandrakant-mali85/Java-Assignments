@@ -1,0 +1,17 @@
+Q.Algorithm to Find Maximum of 3 Numbers
+1.Start
+
+2.Input three numbers: A, B, C
+
+3.If A > B and A > C, then
+→ Max = A
+
+Else if B > C, then
+→ Max = B
+
+Else
+→ Max = C
+
+4.Output Max
+
+5.End

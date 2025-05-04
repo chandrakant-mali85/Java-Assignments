@@ -1,0 +1,28 @@
+Q.Calculate Simple Interest
+ Formula:
+Simple Interest (SI)=𝑃×𝑅×𝑇/100
+Where:
+
+P = Principal amount
+
+R = Rate of interest
+
+T = Time (in years)
+
+Algorithm Steps:
+1.Start
+
+2.Input P (Principal amount)
+
+3.Input R (Rate of interest)
+
+4.Input T (Time in years)
+
+5.Compute: SI = (P × R × T) / 100
+
+6.Output SI
+
+7.End
+
+
+

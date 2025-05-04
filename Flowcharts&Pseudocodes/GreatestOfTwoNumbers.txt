@@ -1,0 +1,16 @@
+Q.Algorithm to Find the Greatest of Two Numbers
+
+1.Start
+
+2.Input two numbers: A and B
+
+3.If A > B, then
+→ Greatest = A
+
+4.Else,
+→ Greatest = B
+
+5.Output Greatest
+
+6.End
+

@@ -1,0 +1,11 @@
+Q.Algorithm to Print Even Numbers Between 9 and 100.
+
+1.Start
+
+2.For i = 10 to 100 (because 10 is the first even number after 9)
+
+If i % 2 == 0, then
+→ Print i
+
+3.End
+
